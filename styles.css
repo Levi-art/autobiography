@@ -9,7 +9,6 @@ h1
 color: whitesmoke;
 font-size: 50px;
 font-weight: 100px;
-border: 400px;
 padding: 10px;}
 
 
@@ -24,8 +23,6 @@ padding: 10px;}
     background-color: black;
     color: white;
     font-weight: bold;
-
-    border-bottom: 400px; 
     padding-top: 7px;
     padding-bottom: 7px;
     padding-left: 50px;
